@@ -1,1 +1,1 @@
-Add your ROM here named as game.gb
+This is a game made with gbstudios and is #gbc #selfmade
